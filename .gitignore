@@ -1,3 +1,7 @@
+### PNG image files ###
+*.png
+
+
 ### Parquet ###
 # gitignore template for parquet files
 *.parquet
