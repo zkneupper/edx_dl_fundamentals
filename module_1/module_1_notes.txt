@@ -1,0 +1,11 @@
+
+# Sigmoid function
+
+a = f(z) = 1 / (1 + e ^ (-z))
+
+
+# Image Colorization
+
+Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification:
+
+http://iizuka.cs.tsukuba.ac.jp/projects/colorization/extra.html
